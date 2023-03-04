@@ -1,0 +1,20 @@
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\Web Scrape.exe.config
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\Web Scrape.exe
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\Web Scrape.pdb
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\Web Scrape.xml
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\HtmlAgilityPack.dll
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\HtmlAgilityPack.xml
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.vbprojAssemblyReference.cache
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web_Scrape.Form1.resources
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web_Scrape.Resources.resources
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.vbproj.GenerateResource.cache
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.vbproj.CoreCompileInputs.cache
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.vbproj.CopyComplete
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.exe
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.xml
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\obj\Debug\Web Scrape.pdb
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\nickh\source\repos\Web Scrape\Web Scrape\bin\Debug\WebDriver.dll
