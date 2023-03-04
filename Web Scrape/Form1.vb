@@ -88,7 +88,7 @@ Public Class Form1
         Next
 
         'Return filtered div elements
-        'Return filteredDivs.ToArray()
+        Return filteredDivs.ToArray()
 
     End Function
     Public Function ParseVisibleText(htmlString As String) As List(Of String)
